@@ -1,4 +1,4 @@
-# Live chat APP using `Node.js` and `Socket.io`
+## Live chat app using `Node.js` and `Socket.io`
 
 `server (emit)` -> client (receive) - `countUpdated` event
 `client (emit)` -> server (receive) - `increment` event
